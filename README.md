@@ -1,2 +1,2 @@
-# Fliterm-Flutter-Terminal
-This is a simple terminal (Unix Commands with some changes) by Flutter &amp; Dart
+# Fliterm
+A simple terminal written in Dart with a beatiful interface powered by Flutter.
